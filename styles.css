@@ -148,6 +148,9 @@ blockquote {
     align-content: center;
     width: 700px;
     height: 400px;
+    margin-left: 1000px;
+    margin-right: 0;
+    
 }
 
 
@@ -160,7 +163,7 @@ blockquote {
     height: 150px;
     display: flex;
     flex-direction: column;
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
 }
 
 .call-to-action-text {
